@@ -1,29 +1,33 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
+  initials: VD
+  name: Vishnu Dileesh
+  email: mail@vishnudileesh.com
   profession: Web Developer
   image: images/profile.jpg
-  location: New York, USA
-  relocation: true
-  company: Atomic Studio
+  location: Kerala, India
+  relocation: false
+  company: Exploring
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Learning Nextjs
+  focus_url: https://nextjs.org/
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    I am an aspiring social entrepreneur and a self-taught programmer. While in my bachelor's degree, I dropped out of college to co-found india's first hybrid emergency response communication system.
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    I have been fascinated about the Internet and the power it possess in the ability to change/enhance lives from the early days of my introduction to computers. I was more into knowing more about the Software than the Hardware. After doing hello worlds in 100's of programming languages, I choose to go ahead with Web Technologies as it had the most wide profound reach. The whole idea of using Technology and Business for Enhancement of human lives excites me. Am always learning and exploring the new things happening in the web space.
+  
   skills:
     - JavaScript
     - HTML / CSS
-    - Ruby on Rails
-  tools:
     - React
-    - VSCode
+    - Bootstrap
+    - Firebase
+    - Python
+  tools:
     - Gatsby
+    - Git
+    - NeoVim
   budget:
-    currency: $
-    min: 5
-    max: 30
-    default: 10
+    currency: ₹
+    min: 1
+    max: 10
+    default: 2
