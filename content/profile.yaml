@@ -6,8 +6,8 @@
   image: images/profile.jpg
   location: Kerala, India
   relocation: false
-  company: Exploring
-  for_hire: true
+  company: PIXELBRAHMA
+  for_hire: false
   focus: Learning Nextjs
   focus_url: https://nextjs.org/
   about: |
@@ -16,16 +16,16 @@
     I have been fascinated about the Internet and the power it possess in the ability to change/enhance lives from the early days of my introduction to computers. I was more into knowing more about the Software than the Hardware. After doing hello worlds in 100's of programming languages, I choose to go ahead with Web Technologies as it had the most profound reach. 
 
     The whole idea of using Technology and Business for Enhancement of human lives excites me. Am always learning and exploring the new things happening in the web space.
-  
+
   skills:
-    - JavaScript
-    - HTML / CSS
+    - Angular
+    - Javascript
     - React
-    - Bootstrap
     - Firebase
+    - HTML5 / CSS3
     - Python
   tools:
-    - Gatsby
+    - Netlify
     - Git
     - NeoVim
   budget:
