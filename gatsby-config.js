@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Portfolio website of Vishnu Dileesh",
+    description: "Am an apsiring social entrepreneur & a self taught programmer, I believe in the concept of earning knowledge & sharing knowledge",
     locale: "en",
-    title: "Vishnu Dileesh - Portfolio"
+    title: "Vishnu Dileesh - Aspiring Social Entrepreneur"
   },
   plugins: [
     {

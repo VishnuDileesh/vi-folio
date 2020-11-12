@@ -2,14 +2,14 @@
   initials: VD
   name: Vishnu Dileesh
   email: mail@vishnudileesh.com
-  profession: Web Developer
+  profession: Software Engineer
   image: images/profile.jpg
   location: Kerala, India
   relocation: false
   company: PIXELBRAHMA
   for_hire: false
-  focus: Learning Nextjs
-  focus_url: https://nextjs.org/
+  focus: Learning Nestjs
+  focus_url: https://nestjs.com/
   about: |
     I am an aspiring social entrepreneur and a self-taught programmer. While in my bachelor's degree, I dropped out of college to co-found india's first hybrid emergency response communication system.
 
